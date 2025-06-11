@@ -1,0 +1,61 @@
+class Solution {
+  public List<String> fullJustify(String[] words, int maxWidth) {
+        List<String> result = new ArrayList<>();
+        int index = 0;
+
+        while (index < words.length) {
+            int totalChars = words[index].length();
+            int last = index + 1;
+
+          
+            while (last < words.length) {
+                if (totalChars + 1 + words[last].length() > maxWidth) break;
+                totalChars += 1 + words[last].length();
+                last++;
+            }
+
+            int gaps = last - index - 1;
+            StringBuilder sb = new StringBuilder();
+
+          
+            if (last == words.length || gaps == 0) {
+                for (int i = index; i < last; i++) {
+                    sb.append(words[i]);
+                    if (i != last - 1) sb.append(" ");
+                }
+                
+                while (sb.length() < maxWidth) sb.append(" ");
+            } else {
+                int totalSpaces = maxWidth - totalChars + gaps;
+                int spacePerGap = totalSpaces / gaps;
+                int extraSpaces = totalSpaces % gaps;
+
+                for (int i = index; i < last - 1; i++) {
+                    sb.append(words[i]);
+                    sb.append(" ".repeat(spacePerGap + (i - index < extraSpaces ? 1 : 0)));
+                }
+                sb.append(words[last - 1]);
+            }
+
+            result.add(sb.toString());
+            index = last;
+        }
+
+        return result;
+    }
+
+    public static void main(String[] args) {
+        Solution tj = new Solution();
+        String[] words1 = {"This", "is", "an", "example", "of", "text", "justification."};
+        int maxWidth1 = 16;
+        System.out.println(tj.fullJustify(words1, maxWidth1));
+
+        String[] words2 = {"What", "must", "be", "acknowledgment", "shall", "be"};
+        int maxWidth2 = 16;
+        System.out.println(tj.fullJustify(words2, maxWidth2));
+
+        String[] words3 = {"Science","is","what","we","understand","well","enough","to","explain","to","a","computer.","Art","is","everything","else","we","do"};
+        int maxWidth3 = 20;
+        System.out.println(tj.fullJustify(words3, maxWidth3));
+    }
+}
