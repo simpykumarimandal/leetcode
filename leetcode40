@@ -1,0 +1,31 @@
+import java.util.HashMap;
+
+class Solution{
+    public static boolean isIsomorphic(String s, String t) {
+        if (s.length() != t.length()) return false;
+
+        HashMap<Character, Character> mapST = new HashMap<>();
+        HashMap<Character, Character> mapTS = new HashMap<>();
+
+        for (int i = 0; i < s.length(); i++) {
+            char cs = s.charAt(i);
+            char ct = t.charAt(i);
+
+            if (mapST.containsKey(cs)) {
+                if (mapST.get(cs) != ct) return false;
+            } else {
+                if (mapTS.containsKey(ct)) return false;
+                mapST.put(cs, ct);
+                mapTS.put(ct, cs);
+            }
+        }
+
+        return true;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(isIsomorphic("egg", "add"));    
+        System.out.println(isIsomorphic("foo", "bar"));   
+        System.out.println(isIsomorphic("paper", "title")); 
+    }
+}
