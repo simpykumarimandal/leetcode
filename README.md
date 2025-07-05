@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/simpykumarimandal/leetcode/tree/master/0046-permutations) |
 | [0212-word-search-ii](https://github.com/simpykumarimandal/leetcode/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/simpykumarimandal/leetcode/tree/master/0399-evaluate-division) |
 | [0945-snakes-and-ladders](https://github.com/simpykumarimandal/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/simpykumarimandal/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/simpykumarimandal/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/simpykumarimandal/leetcode/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/simpykumarimandal/leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
