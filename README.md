@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/simpykumarimandal/leetcode/tree/master/0399-evaluate-division) |
 | [0772-construct-quad-tree](https://github.com/simpykumarimandal/leetcode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/simpykumarimandal/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simpykumarimandal/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/simpykumarimandal/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/simpykumarimandal/leetcode/tree/master/0148-sort-list) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simpykumarimandal/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
 | ------- |
@@ -140,4 +142,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/simpykumarimandal/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simpykumarimandal/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Greedy
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simpykumarimandal/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
