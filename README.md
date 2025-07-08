@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/simpykumarimandal/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/simpykumarimandal/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simpykumarimandal/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/simpykumarimandal/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/simpykumarimandal/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/simpykumarimandal/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/simpykumarimandal/leetcode/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/simpykumarimandal/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/simpykumarimandal/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simpykumarimandal/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/simpykumarimandal/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/simpykumarimandal/leetcode/tree/master/0148-sort-list) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/simpykumarimandal/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/simpykumarimandal/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Merge Sort
 |  |
 | ------- |
