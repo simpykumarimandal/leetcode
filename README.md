@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/simpykumarimandal/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/simpykumarimandal/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/simpykumarimandal/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/simpykumarimandal/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/simpykumarimandal/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/simpykumarimandal/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/simpykumarimandal/leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/simpykumarimandal/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/simpykumarimandal/leetcode/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/simpykumarimandal/leetcode/tree/master/0212-word-search-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/simpykumarimandal/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/simpykumarimandal/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/simpykumarimandal/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/simpykumarimandal/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Simulation
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/simpykumarimandal/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/simpykumarimandal/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Segment Tree
 |  |
