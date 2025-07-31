@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/simpykumarimandal/leetcode/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/simpykumarimandal/leetcode/tree/master/0399-evaluate-division) |
 | [0772-construct-quad-tree](https://github.com/simpykumarimandal/leetcode/tree/master/0772-construct-quad-tree) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/simpykumarimandal/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/simpykumarimandal/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/simpykumarimandal/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/simpykumarimandal/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/simpykumarimandal/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/simpykumarimandal/leetcode/tree/master/0053-maximum-subarray) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/simpykumarimandal/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/simpykumarimandal/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/simpykumarimandal/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/simpykumarimandal/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/simpykumarimandal/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/simpykumarimandal/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/simpykumarimandal/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/simpykumarimandal/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
