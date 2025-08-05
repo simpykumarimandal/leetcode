@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/simpykumarimandal/leetcode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/simpykumarimandal/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/simpykumarimandal/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0940-fruit-into-baskets](https://github.com/simpykumarimandal/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/simpykumarimandal/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/simpykumarimandal/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/simpykumarimandal/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/simpykumarimandal/leetcode/tree/master/0399-evaluate-division) |
 | [0772-construct-quad-tree](https://github.com/simpykumarimandal/leetcode/tree/master/0772-construct-quad-tree) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/simpykumarimandal/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/simpykumarimandal/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/simpykumarimandal/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/simpykumarimandal/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/simpykumarimandal/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/simpykumarimandal/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/simpykumarimandal/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/simpykumarimandal/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/simpykumarimandal/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
