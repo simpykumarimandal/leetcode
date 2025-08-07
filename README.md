@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/simpykumarimandal/leetcode/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/simpykumarimandal/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/simpykumarimandal/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/simpykumarimandal/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/simpykumarimandal/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/simpykumarimandal/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/simpykumarimandal/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/simpykumarimandal/leetcode/tree/master/0212-word-search-ii) |
 | [0772-construct-quad-tree](https://github.com/simpykumarimandal/leetcode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/simpykumarimandal/leetcode/tree/master/0945-snakes-and-ladders) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/simpykumarimandal/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Design
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/simpykumarimandal/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/simpykumarimandal/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/simpykumarimandal/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/simpykumarimandal/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Divide and Conquer
 |  |
 | ------- |
