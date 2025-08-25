@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/simpykumarimandal/leetcode/tree/master/0118-pascals-triangle) |
 | [0212-word-search-ii](https://github.com/simpykumarimandal/leetcode/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/simpykumarimandal/leetcode/tree/master/0399-evaluate-division) |
+| [0498-diagonal-traverse](https://github.com/simpykumarimandal/leetcode/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/simpykumarimandal/leetcode/tree/master/0772-construct-quad-tree) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/simpykumarimandal/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/simpykumarimandal/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/simpykumarimandal/leetcode/tree/master/0212-word-search-ii) |
+| [0498-diagonal-traverse](https://github.com/simpykumarimandal/leetcode/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/simpykumarimandal/leetcode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/simpykumarimandal/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/simpykumarimandal/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/simpykumarimandal/leetcode/tree/master/0498-diagonal-traverse) |
 | [2479-meeting-rooms-iii](https://github.com/simpykumarimandal/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/simpykumarimandal/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
