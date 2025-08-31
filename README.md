@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/simpykumarimandal/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/simpykumarimandal/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/simpykumarimandal/leetcode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/simpykumarimandal/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/simpykumarimandal/leetcode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/simpykumarimandal/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/simpykumarimandal/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/simpykumarimandal/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/simpykumarimandal/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/simpykumarimandal/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/simpykumarimandal/leetcode/tree/master/0053-maximum-subarray) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/simpykumarimandal/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/simpykumarimandal/leetcode/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/simpykumarimandal/leetcode/tree/master/0212-word-search-ii) |
 | [0498-diagonal-traverse](https://github.com/simpykumarimandal/leetcode/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/simpykumarimandal/leetcode/tree/master/0772-construct-quad-tree) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/simpykumarimandal/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/simpykumarimandal/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/simpykumarimandal/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/simpykumarimandal/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/simpykumarimandal/leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/simpykumarimandal/leetcode/tree/master/0052-n-queens-ii) |
